@@ -1,0 +1,124 @@
+.jumbotron{
+	background-color: #FFE569;
+	text-align: center;
+	color:#3B142F;
+	font-weight: bold;
+	font-style: italic;
+}
+navbar{
+	margin: 0 auto;
+}
+.nav-link{
+	margin: 0 auto;
+	font-weight: bold;
+	font-size: 125%;
+	text-align: center;
+}
+a.nav-link{
+	color:#35084A;
+	background-color: #EC5CFF;
+}
+#social{
+	margin-left: auto;
+	margin-right: auto;
+}
+svg.injected-svg.iconic{
+	margin: 0 auto;
+	margin-right: 3%;
+	margin-top: 10px;
+}
+svg.injected-svg.iconic:hover{
+	background-color:#FF301F;
+}
+p#copy{
+	margin: 0 auto;
+	color:#277F2E;
+	text-align: center;
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-family: "Aref Ruqaa","Arial" ,serif;
+	font-weight: bold;
+}
+p,a{
+	font-family: "Nunito","Times New Roman",sans-serif;
+	text-align: justify;
+	font-size: 18px;
+}
+.col{
+    width: 47%;
+	margin: 0 auto;
+}
+	
+.col.first{
+	float: left;
+	clear: both;
+	margin-left: 1%;
+}
+.col.second{
+	float: right;
+	margin-right: 1%;
+}
+footer{
+	clear:both;
+	width: 100%;
+}
+footer.foot p{
+	font-weight: bold;
+}
+.card-img-top{
+	width:100%;
+	float: left;
+}
+.card{
+	width:30%;
+}
+.card-block{
+	width: 100%;
+}
+.head{
+	float:left;
+	color: #FF120E;
+}
+div.card{
+	border:none;
+}
+div.card-block{
+	border:none;
+}
+.demo{
+	float:none;
+}
+.map{
+	margin-top: 2%;
+	color:#FF120E;
+}
+.contact{
+	color: #8F4A0E;
+	background-color: #BFBD54;
+	text-align: center;
+}
+.content.pic{
+	width:60%;
+}
+.header{
+	text-align: center;
+	font-weight: bold;
+	color: #175209;
+	background-color: #9EBF90;
+}
+p.card-text{
+	margin-top:2%;
+}
+.table{
+	margin-left: 1%;
+	margin-top: 1%;
+	float: left;
+}
+.td1{
+	margin-top: 1%;
+	margin-bottom: 2%;
+}
+.name{
+	font-weight: bold;
+}
